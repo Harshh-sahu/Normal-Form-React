@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Normal-Form-React/static/css/main.748989b1.css",
+    "main.js": "/Normal-Form-React/static/js/main.d6b374d6.js",
+    "index.html": "/Normal-Form-React/index.html",
+    "main.748989b1.css.map": "/Normal-Form-React/static/css/main.748989b1.css.map",
+    "main.d6b374d6.js.map": "/Normal-Form-React/static/js/main.d6b374d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.748989b1.css",
+    "static/js/main.d6b374d6.js"
+  ]
+}
